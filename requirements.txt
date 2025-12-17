@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 pandas
 numpy
@@ -7,4 +8,15 @@ plotly
 reportlab
 joblib
 matplotlib
+=======
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+plotly
+reportlab
+joblib
+matplotlib
+>>>>>>> 733c479c0e79c9435f4e02c93f463dd4d724127b
 seaborn
