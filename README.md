@@ -3,8 +3,8 @@
 📘 Python’dan Makine Öğrenmesine
 Veri Bilimi & Yapay Zeka Öğrenme Yolculuğu
 
-Bu repository, Patika.dev – Gelecek Hayalim w/ Code #20
-Veri Bilimi ve Yapay Zeka Atölyesi (3. Dönem) kapsamında hazırlanmıştır.
+Bu repository, Kodluyoruz ve Patika.dev – Gelecek Hayalim Projesi w/ Code #20
+Veri Bilimi ve Yapay Zeka Atölyesi (3. Dönem) kapsamında  hazırlanmıştır.
 
 Amaç; Python temellerinden başlayarak, veri analizi, NumPy, Pandas, EDA ve gerçek bir veri seti üzerinde çalışarak Makine Öğrenmesine giden yolu adım adım inşa etmektir.
 
